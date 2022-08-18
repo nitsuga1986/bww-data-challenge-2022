@@ -7,7 +7,9 @@
 Build a Species Distribution Model for the frog species - "Litoria Fallax" across Australia using TerraClimate variables.
 
 ### This Repo
-This repo contains a jupyter notebook with the Data processing techniques and ML model resulting in the 2nd place for the 2022 Better Working World Data Challenge.
+This repo contains: 
+* A jupyter notebook with the Data processing techniques and ML model resulting in the 2nd place for the 2022 Better Working World Data Challenge.
+* A [Supporting Document](Supporting Document.pdf) with all the details of the implementation and the design.
 
 <img src="pictures/certificate.PNG" alt="certificate" width="400"/>
 
