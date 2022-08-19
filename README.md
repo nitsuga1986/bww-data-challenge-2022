@@ -31,6 +31,8 @@ In the supporting document you will find the data processing thechniques and mod
 
 This challenge has been co-created with remote sensing expertise from NASA (Dr. Brian Killough) and Swinburne University (Dr. Jack White), and biodiversity expertise from the Australian Museum (Dr. Jodi Rowley) and the CSIRO (Dr. Cam Slatyer). The notebook connects to public facing data sources on Microsoft’s Planetary Computer. 
 
+<img src="pictures/Australia - Frogs over time.PNG" alt="chart" width="400"/>
+
 ### Useful links:
 [EY 2022 Better Working World Data Challenge Website](https://challenge.ey.com/) - visit here to register for the next challenge and learn more about it!
 
